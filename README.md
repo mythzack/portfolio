@@ -31,7 +31,6 @@ This portfolio emphasizes clarity, intent, and maintainability over volume.
 │   └── extract_warehouse_tasks.py
 │
 ├── automation/
-│   ├── snapshot_framework.md
 │   └── flow_architecture.png
 │
 └── README.md
